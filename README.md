@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pparutto/BINF2025_TP4/blob/main/BINF2025_TP4.ipynb)
+
 # BINF2025_TP4
 
 Procédure de rendu:
